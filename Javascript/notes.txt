@@ -66,8 +66,8 @@ Data Types :
             i. number
             ii. string
             iii. boolean
-            iv. null
-            v. undefine
+            iv. null--intentionally empty
+            v. undefine--not given value.
             vi. symbol
             vii. bigint 
 
